@@ -3,7 +3,7 @@
 
 Simples Landing Page para app de relacionamentos feita para treinar grid layout (e suas infinitas possibilidades), otimização de imagens e melhoria de SEO.
 
-Demo: [Netlify](https://fervent-edison-5e9232.netlify.app/)
+Demo: [Netlify](https://page-reencontrow.vercel.app/)
 
 ## Stack utilizada
 
